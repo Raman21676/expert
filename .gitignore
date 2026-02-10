@@ -56,3 +56,4 @@ __pycache__/
 
 # LLama.cpp build
 scripts/llama.cpp/
+*.apk
